@@ -1,0 +1,1 @@
+# SQL-TEMEL--DEV2-Patika.dev
